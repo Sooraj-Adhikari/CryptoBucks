@@ -5,7 +5,7 @@
 CryptoBucks is a fully functional and visually appealing cryptocurrency visualization platform built using React.js and Tailwind CSS.
 It allows users to track and visualize cryptocurrency data in real-time using the CoinGecko API and interactive graphs for an enhanced user experience.
 
-<br>
+<hr>
 
 🚀 Features
 
