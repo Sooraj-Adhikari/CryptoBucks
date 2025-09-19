@@ -21,6 +21,8 @@ It allows users to track and visualize cryptocurrency data in real-time using th
 
 ✨ Modern, attractive, and user-friendly interface
 
+<hr>
+
 🛠️ Tech Stack
 
 Frontend: React.js, Tailwind CSS
